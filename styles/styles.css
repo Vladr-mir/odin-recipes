@@ -1,0 +1,37 @@
+* {
+	padding: 2em;
+}
+
+h1 {
+	font-size: 40px;
+}
+
+img {
+	width: 500px;
+	height: auto;
+}
+
+.abtn,
+.grey-br{
+	background-color: lightgrey;
+	color: black;
+}
+
+.debug {
+	border: 2px solid lightgrey;
+}
+
+.abtn {
+	font-family: Verdana, Geneva, Tahoma, sans-serif;
+	border: 2px solid grey;
+	border-radius: 5%;
+	padding: 5px;
+}
+
+.grey-br {
+	font-size: 20px;
+	font-family: Verdana, Geneva, Tahoma, sans-serif;
+	display: flex;
+	list-style: none;
+}
+
